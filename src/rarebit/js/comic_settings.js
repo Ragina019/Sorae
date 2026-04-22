@@ -40,7 +40,7 @@ if (pg == 0) {pg = maxpg;} //display MOST RECENT COMIC when the webpage is loade
     title: "Look After - Page 1",
     date: "2026-04-22",
     altText: "A description of the art",
-    imageFiles: ["Look-After/page1.png"] 
+    imageFiles: ["img/comics/Look-After/page1.png"] 
 },
 */
 //Note: the formatting is important! The whole thing won't show up if you forget to include the commas or curly braces in the right place.
