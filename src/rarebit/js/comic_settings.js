@@ -34,7 +34,7 @@ const navScrollTo = "#showComic"; //id of the div you want the page to automatic
 if (pg == 0) {pg = maxpg;} //display MOST RECENT COMIC when the webpage is loaded. if you want to instead have the FIRST COMIC displayed first, change maxpg to 1.
 
 //pgData holds all the parameters for each of your pages. copypaste this and fill out accordingly:
-/* 
+/
    {
     pgNum: 1,
     title: "Look After - Page 1",
@@ -42,7 +42,7 @@ if (pg == 0) {pg = maxpg;} //display MOST RECENT COMIC when the webpage is loade
     altText: "A description of the art",
     imageFiles: ["img/comics/Look-After/page1.png"] 
 },
-*/
+/
 //Note: the formatting is important! The whole thing won't show up if you forget to include the commas or curly braces in the right place.
 
 const pgData = [
